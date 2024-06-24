@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 [<img style="margin-right: 150px margin-left: 150px" width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' height=30>](https://nodejs.org)
 [<img style="margin-right: 150px margin-left: 150px" width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' height=30>](https://reactjs.org/)
 [<img style="margin-right: 150px margin-left: 150px" width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg' height=30>](https://redux.js.org)
+
+
+[<img style="margin-right: 150px margin-left: 150px" width="40" height="40" src='https://github-readme-stats.vercel.app/api/top-langs?username=aman22o8&show_icons=true&locale=en&layout=compact' height=30>]
   
 
 
