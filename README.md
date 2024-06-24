@@ -30,9 +30,7 @@ Here are some ideas to get you started:
    
  
 [<img style="margin-right: 150px margin-left: 150px" width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' height=30>](https://www.w3schools.com/css/)
-
 [<img style="margin-right: 150px margin-left: 150px" width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' height=30>](https://www.w3.org/html/)
-
 [<img style="margin-right: 150px margin-left: 150px" width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' height=30>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 [<img style="margin-right: 150px margin-left: 150px" width="40" height="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' height=30>](https://nodejs.org)
